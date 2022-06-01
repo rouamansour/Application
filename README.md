@@ -10,3 +10,12 @@ To Do List App with authentication user (Register/Login/Logout)
 
 ![search](https://user-images.githubusercontent.com/73079423/170847589-5b3ca6ea-5334-44b8-9993-d2d3fb0427bb.jpg)
 
+Administration 
+
+![image](https://user-images.githubusercontent.com/73079423/171305851-23ad2aca-0d0d-4acd-9ad5-f057c4215242.png)
+
+Tasks :
+
+![image](https://user-images.githubusercontent.com/73079423/171305910-9a5b4e85-89fb-4c12-8567-035dbccd84b7.png)
+
+
